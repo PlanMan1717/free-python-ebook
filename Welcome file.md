@@ -61,7 +61,12 @@ Let's break that one down.
 - `print` will print the text specified to the terminal. More on this soon.
 - When using a `+` operator to add strings, it is called "concatenation". It puts the second string on the end of the first without changing whitespace.
 
-We needed no sort of libraries to perform that. The functions are called "builtins"
+We needed no sort of libraries to perform that. The functions are called "builtins".
+
+### More on data types
+
+- Literally everything is a variable.
+	- `print`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDEzMTIxNF19
+eyJoaXN0b3J5IjpbLTU1NzUzNTc4NV19
 -->
