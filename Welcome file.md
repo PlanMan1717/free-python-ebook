@@ -57,7 +57,9 @@ print("Oh, Hello " + name)
 
 Let's break that one down.
 - `name` is a string because `input` will **always** return a string.
-- `input` takes an argument of (almost) any type. This is accomplished without the nee
+- `input` takes an argument of (almost) any type to be the prompt. This is accomplished without any overloads.
+- `print` will print the text specified to the terminal. More on this soon.
+- When u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODEzNDg3MV19
+eyJoaXN0b3J5IjpbLTE1MjE5MTI0MTJdfQ==
 -->
