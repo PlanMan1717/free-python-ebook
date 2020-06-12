@@ -56,7 +56,8 @@ print("Oh, Hello " + name)
 ```
 
 Let's break that one down.
-- `name` is a string because `input()` will **always**  return a string.
+- `name` is a string because `input` will **always** return a string.
+- `input` takes an argument of (almost) any type. This is accomplished without the nee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMTU2ODE0XX0=
+eyJoaXN0b3J5IjpbMTk4ODEzNDg3MV19
 -->
