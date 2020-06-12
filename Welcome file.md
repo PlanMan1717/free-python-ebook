@@ -55,7 +55,8 @@ name = input("What is your name? ")
 print("Oh, Hello " + name)
 ```
 
-Let's brea
+Let's break that one down.
+- `name` is a string because `input()` will **always**  return a string.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTAyMjc1NF19
+eyJoaXN0b3J5IjpbODcyMTU2ODE0XX0=
 -->
