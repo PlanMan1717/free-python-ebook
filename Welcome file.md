@@ -2,7 +2,7 @@
 
 ## Refresher
 
-As a C++ programmer, you are already with the concept of datatypes. Every time you create a variable you must something like:
+As a C++ programmer, you are already with the concept of data types. Every time you create a variable you must write out something like:
 
  
 ```c++
@@ -59,7 +59,9 @@ Let's break that one down.
 - `name` is a string because `input` will **always** return a string.
 - `input` takes an argument of (almost) any type to be the prompt. This is accomplished without any overloads.
 - `print` will print the text specified to the terminal. More on this soon.
-- When using a `+` operator to add strings, it is called "concatenation". It puts the second string on the end of the first without changing whitewhitespace.
+- When using a `+` operator to add strings, it is called "concatenation". It puts the second string on the end of the first without changing whitespace.
+
+We needed no sort of libraries to perform that. The functions are called "builtins"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTUwNjcwOF19
+eyJoaXN0b3J5IjpbMTAxNDEzMTIxNF19
 -->
