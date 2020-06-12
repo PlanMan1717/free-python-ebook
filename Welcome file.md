@@ -41,24 +41,19 @@ Example:
 ```c++
 #include<iostream>
 int  main() {
-char[] name;
-std::cout <<  "What is your name? ";
-std::cin >> name;
-std::cout <<  "\n"  <<  "Oh, Hello "  << name << std::endl;
-
-return  0;
-
+	char[] name;
+	std::cout <<  "What is your name? ";
+	std::cin >> name;
+	std::cout <<  "\n"  <<  "Oh, Hello "  << name << std::endl;
+	return  0;
 }
-
 ```
-
-  
-
 Becomes:
 
-  
-
 ```python
+name = input("What's your name? ")
+prin
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyODczNzQ2XX0=
+eyJoaXN0b3J5IjpbLTk2OTQzNTgwN119
 -->
