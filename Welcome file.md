@@ -59,7 +59,7 @@ Let's break that one down.
 - `name` is a string because `input` will **always** return a string.
 - `input` takes an argument of (almost) any type to be the prompt. This is accomplished without any overloads.
 - `print` will print the text specified to the terminal. More on this soon.
-- When u
+- When using a `+` operator to add strings, it is called "concatenation". It puts the second string on the end of the first without changing whitewhitespace.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE5MTI0MTJdfQ==
+eyJoaXN0b3J5IjpbMjA0MTUwNjcwOF19
 -->
