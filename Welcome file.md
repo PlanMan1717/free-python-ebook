@@ -66,7 +66,8 @@ We needed no sort of libraries to perform that. The functions are called "builti
 ### More on data types
 
 - Literally everything is a variable.
-	- `print`
+	- `print` can be called without parens, it returns `<built-in function print>`
+	- Classes are vari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzUzNTc4NV19
+eyJoaXN0b3J5IjpbMTY3MTAxNjc3Nl19
 -->
