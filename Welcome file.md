@@ -51,9 +51,11 @@ int  main() {
 Becomes:
 
 ```python
-name = input("What's your name? ")
-prin
+name = input("What is your name? ")
+print("Oh, Hello " + name)
 ```
+
+Let's brea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTQzNTgwN119
+eyJoaXN0b3J5IjpbMTI0OTAyMjc1NF19
 -->
